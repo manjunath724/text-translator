@@ -49,3 +49,6 @@ rails server
 ## Pending
 - Caching is malfunctioning, everytime there is an update in the DB, all entries will be displayed.
 - Rspec test case scenarios
+- Add [rabl](https://github.com/nesquena/rabl) to display formatted output
+- Add [apipie](https://github.com/Apipie/apipie-rails) documentation
+- Add db/seed to generate initial data - feed the data through csv file upload or using [Faker](https://github.com/stympy/faker) gem.
